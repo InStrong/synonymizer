@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="sinonim:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91342939-3bcc-44e8-b008-3f32fee1e2e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b0RQkdPv7bGs0Mqejf2U2cfAYu" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="sinonim" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91342939-3bcc-44e8-b008-3f32fee1e2e4" name="Default Changelist" comment="" />
+      <created>1587767010669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587767010669</updated>
+      <workItem from="1587767014121" duration="4950000" />
+      <workItem from="1587828792163" duration="200000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1784" y="1332" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587771346077">
+      <screen x="1327" y="1103" width="1440" height="877" />
+    </state>
+    <state x="1784" y="1332" key="#com.intellij.ide.util.TreeClassChooserDialog/1327.1103.1440.877/52.23.2508.1057@1327.1103.1440.877" timestamp="1587771346077" />
+    <state width="1398" height="246" key="GridCell.Tab.0.bottom" timestamp="1587771975913">
+      <screen x="1327" y="1103" width="1440" height="877" />
+    </state>
+    <state width="1398" height="246" key="GridCell.Tab.0.bottom/1327.1103.1440.877/52.23.2508.1057@1327.1103.1440.877" timestamp="1587771975913" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/1327.1103.1440.877/53.23.2507.1057@1327.1103.1440.877" timestamp="1587768222209" />
+    <state width="1398" height="246" key="GridCell.Tab.0.center" timestamp="1587771975912">
+      <screen x="1327" y="1103" width="1440" height="877" />
+    </state>
+    <state width="1398" height="246" key="GridCell.Tab.0.center/1327.1103.1440.877/52.23.2508.1057@1327.1103.1440.877" timestamp="1587771975912" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center/1327.1103.1440.877/53.23.2507.1057@1327.1103.1440.877" timestamp="1587768222209" />
+    <state width="1398" height="246" key="GridCell.Tab.0.left" timestamp="1587771975911">
+      <screen x="1327" y="1103" width="1440" height="877" />
+    </state>
+    <state width="1398" height="246" key="GridCell.Tab.0.left/1327.1103.1440.877/52.23.2508.1057@1327.1103.1440.877" timestamp="1587771975911" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left/1327.1103.1440.877/53.23.2507.1057@1327.1103.1440.877" timestamp="1587768222208" />
+    <state width="1398" height="246" key="GridCell.Tab.0.right" timestamp="1587771975913">
+      <screen x="1327" y="1103" width="1440" height="877" />
+    </state>
+    <state width="1398" height="246" key="GridCell.Tab.0.right/1327.1103.1440.877/52.23.2508.1057@1327.1103.1440.877" timestamp="1587771975913" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right/1327.1103.1440.877/53.23.2507.1057@1327.1103.1440.877" timestamp="1587768222209" />
+    <state x="1535" y="1123" key="SettingsEditor" timestamp="1587771353565">
+      <screen x="1327" y="1103" width="1440" height="877" />
+    </state>
+    <state x="1535" y="1123" key="SettingsEditor/1327.1103.1440.877/52.23.2508.1057@1327.1103.1440.877" timestamp="1587771353565" />
+  </component>
+</project>
